@@ -3,7 +3,7 @@ Jeu de roulette avec des règles simplifiées, dans le cadre d'un TP j'ai réali
 
 Les règles sont simples:
   - le joueur est invité à rentrer le numéro sur lequel il veut miser, on vérifie la veleur entrée.
-    la valeur doit être comprise entre entre 0 et 49.
+    la valeur doit être comprise entre 0 et 49.
   - le joueur est invité à rentrer le montant de sa mise, on revérifie la veleur entrée.
     La valeur doit être comprise entre 1 et 1000$ pour commencer.
    
